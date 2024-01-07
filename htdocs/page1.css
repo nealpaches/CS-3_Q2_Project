@@ -69,12 +69,11 @@ footer {
     font-size: 35px;
     margin-right: 50px;
     line-height: 2px;
-    top: 200px;
-    bottom: -500px;
 }
 
 footer a {
     color: black;
     font-size: 50px;
+    
 }
 
