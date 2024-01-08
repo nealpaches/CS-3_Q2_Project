@@ -2,6 +2,10 @@ img#head{
     height: 500px;
     width: 600px;
 }
+img#globalwarm{
+    height: 300px;
+    width: 400px;
+}
 article#art1{
     border-top: 1px dashed black;
     width: 600px;
