@@ -1,6 +1,25 @@
+img#head{
+    height: 500px;
+    width: 600px;
+}
+img#globalwarm{
+    height: 300px;
+    width: 400px;
+}
+article#art1{
+    border-top: 1px dashed black;
+    width: 600px;
+}
+article#art2{
+    width: 400px;
+}
+aside{
+    width: 600px;
+}
 footer{
     background-color: black;
     color: white;
+    font-family: Tahoma;
 }
 ul li{
     display: inline;
@@ -8,6 +27,16 @@ ul li{
 }
 a{
     text-decoration: none;
+}
+a:link {
+    color: white;
+}
+a:hover {
+    background-color: darkgray;
+    color: grey;
+}
+a:visited{
+    color: white;
 }
 div#right{
     text-align: right;
