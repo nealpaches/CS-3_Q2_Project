@@ -16,4 +16,6 @@ a:hover {
     background-color: darkgray;
     color: grey;
 }
-
+a:visited{
+    color: grey;
+}
