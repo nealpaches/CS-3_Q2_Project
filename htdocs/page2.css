@@ -3,15 +3,13 @@ body {
 }
 
 header img {
-    margin-top: 1000px;
-    margin-bottom: -150px;
-    width: 1000px;
-    height: 1000px;
+    margin-top: -2000px;
+    margin-bottom: -1150px;
 }
 ul li {
     list-style-type: none;
     display: inline;
-    padding-left: 10px;
+    padding-left: 150px;
     top: 50px;
     text-align: left;
 }
@@ -63,13 +61,6 @@ nav a:hover {
 
 nav a:active  {
     color: white;
-}
-
-section {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
 }
 
 footer {
