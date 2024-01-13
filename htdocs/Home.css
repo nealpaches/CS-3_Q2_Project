@@ -15,9 +15,15 @@ article{
 article#art1{
     border-top: 1px dashed black;
     font-size: 18px;
+    width: 1100px;
+    position: absolute;
+    top: 100px;
 }
 article#art2{
     font-size: 18px;
+    width: 990px;
+    position: absolute;
+    bottom: 75px;
 }
 h1{
     font-family: Tahoma;
@@ -26,6 +32,9 @@ h1{
 aside#side1{
     text-align: right;
     width: 400px;
+    position: absolute;
+    top: -12px;
+    right: 40px;
 }
 figure#fig1 figcaption{
     width: 400px;
@@ -36,6 +45,9 @@ aside#side2{
     font-family: Tahoma;
     font-style: italic;
     font-size: 15px;
+    position: absolute;
+    top: 400px;
+    right: 50px;
 }
 figure#fig2 figcaption{
     width: 500px;
@@ -44,6 +56,8 @@ footer{
     background-color: black;
     color: white;
     font-family: Tahoma;
+    position: relative;
+    top: 425px;
 }
 ul li{
     display: inline;
