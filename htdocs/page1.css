@@ -75,6 +75,14 @@ nav a:active  {
     color: white;
 }
 
+aside#side1{
+    text-align: right;
+    width: 400px;
+    position: absolute;
+    top: -12px;
+    right: 40px;
+}
+
 p {
     width: 200px;
     margin-right: 20px;

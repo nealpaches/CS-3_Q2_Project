@@ -51,6 +51,13 @@ nav {
     background-color: black;
 }
 
+aside#side1{
+    text-align: right;
+    width: 400px;
+    position: absolute;
+    top: -12px;
+    right: 40px;
+} 
 a {
     text-decoration: none;
     font-weight: bold;
@@ -97,4 +104,11 @@ footer a {
     color: black;
     font-size: 18px;
     
+}
+aside#side1{
+    text-align: lwft
+    width: 400px;
+    top: -12px;
+    right: 40px;
+    border-top: 1px dashed black;
 }
