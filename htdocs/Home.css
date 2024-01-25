@@ -5,8 +5,8 @@ img#head{
     margin-bottom: -355px;
 }
 img#globalwarm{
-    height: 300px;
-    width: 400px;
+    height: 375px;
+    width: 500px;
 }
 article{
     text-align: justify;
@@ -14,7 +14,7 @@ article{
 article#art1{
     border-top: 1px dashed black;
     font-size: 18px;
-    width: 1100px;
+    width: 1000px;
     position: absolute;
     top: 200px;
 }
@@ -22,7 +22,7 @@ article#art2{
     font-size: 18px;
     width: 990px;
     position: absolute;
-    bottom: 75px;
+    bottom: -150px;
 }
 h1{
     font-family: Tahoma;
@@ -32,11 +32,11 @@ aside#side1{
     text-align: right;
     width: 400px;
     position: absolute;
-    top: -12px;
-    right: 40px;
+    top: 180px;
+    right: 150px;
 }
-figure#fig1 figcaption{
-    width: 400px;
+figcaption{
+    width: 500px;
 }
 aside#side2{
     width: 500px;
@@ -45,18 +45,15 @@ aside#side2{
     font-style: italic;
     font-size: 15px;
     position: absolute;
-    top: 400px;
+    top: 650px;
     right: 50px;
-}
-figure#fig2 figcaption{
-    width: 500px;
 }
 footer{
     background-color: black;
     color: white;
     font-family: Tahoma;
     position: relative;
-    top: 875px;
+    top: 1125px;
     font-size: 20px;
 }
 ul li{
